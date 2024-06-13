@@ -1,7 +1,5 @@
 # Olá, eu sou o Sérgio Adriano!
 
-# ![Paixão por resolver, eficiência em entregar](E:\TECO\AZUL Developer\Imagens\Banners\YOUTUBE\bannerYoutube02.png)
-
 ## Tecnologias que eu uso:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAdrianoMCaetano&layout=compact)
