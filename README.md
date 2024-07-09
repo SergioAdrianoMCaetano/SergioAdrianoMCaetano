@@ -2,13 +2,7 @@
 
 ## Tecnologias que eu uso:
 
-
-<div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAdrianoMCaetano&layout=compact)
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <!-- Adicione mais distintivos de forma semelhante -->
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAdrianoMCaetano&layout=compact)
 
 ### Sobre mim
 
@@ -22,20 +16,8 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias. Gosto 
 
 ### Contato
 
-<div align="center">
-    <!-- Substitua href pelos seus links -->
-    <a href="www.linkedin.com/in/sergio-adriano">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <!-- Adicione mais distintivos de forma semelhante -->
-</div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/SergioAdrianoMCaetano/SergioAdrianoMCaetano/output/github-contribution-grid-snake.svg" alt="Animação de Histórico de Contribuições no GitHub"/>
-    
-</div>
+- [LinkedIn](www.linkedin.com/in/sergio-adriano) !Linkedin
+- [Email](sergioadrianomc@gmail.com)  !Instagram
+- [Instagram](https://www.instagram.com/sergioadrianodevops/) !E-mail
 
-
-- [LinkedIn](www.linkedin.com/in/sergio-adriano)
-- [Email](sergioadrianomc@gmail.com) 
-- [Instagram](https://www.instagram.com/sergioadrianodevops/) 
