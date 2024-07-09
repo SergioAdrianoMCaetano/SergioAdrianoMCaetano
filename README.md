@@ -1,4 +1,10 @@
 # Olá, eu sou o Sérgio Adriano!
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Seu Nome];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 
 ## Tecnologias que eu uso:
 
@@ -10,9 +16,9 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias. Gosto 
 
 ### Projetos em Destaque
 
-- [Projeto 1]( https://github.com/SergioAdrianoMCaetano/EBAC_Sports )
-- [Projeto 2]( https://github.com/SergioAdrianoMCaetano/EBAC_Form_e_Calculadora_REACT )
-- [Projeto 3]( https://github.com/SergioAdrianoMCaetano/LandingPage_SixBladesSudoeste )
+- [Projeto Loja Esportiva]( https://github.com/SergioAdrianoMCaetano/EBAC_Sports )
+- [Projeto Lista de Tarefas]( https://github.com/SergioAdrianoMCaetano/minhas-tarefas )
+- [Projeto SixBlades Jiu-Jitsu]( https://github.com/SergioAdrianoMCaetano/LandingPage_SixBladesSudoeste )
 
 ### Contato
 
