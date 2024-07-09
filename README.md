@@ -2,7 +2,13 @@
 
 ## Tecnologias que eu uso:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAdrianoMCaetano&layout=compact)
+
+<div align="center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAdrianoMCaetano&layout=compact)
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Adicione mais distintivos de forma semelhante -->
+</div>
+
 
 ### Sobre mim
 
@@ -22,6 +28,11 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias. Gosto 
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <!-- Adicione mais distintivos de forma semelhante -->
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/SergioAdrianoMCaetano/SergioAdrianoMCaetano/output/github-contribution-grid-snake.svg" alt="Animação de Histórico de Contribuições no GitHub"/>
+    
 </div>
 
 
