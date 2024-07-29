@@ -1,4 +1,4 @@
-# Olá, eu sou o Sérgio Adriano!
+# Olá, meu nome Sérgio Adriano! Tudo bem?
 
 ## Tecnologias que eu uso:
 
