@@ -12,13 +12,14 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias. Gosto 
 
 ### Projetos em Destaque
 
+- [Projeto EBAC-Play]( https://github.com/SergioAdrianoMCaetano/EBAC_Eplay )
+- [Projeto EBAC-Food]( https://github.com/SergioAdrianoMCaetano/EBAC_EFood )
 - [Projeto Loja Esportiva]( https://github.com/SergioAdrianoMCaetano/EBAC_Sports )
 - [Projeto Lista de Tarefas]( https://github.com/SergioAdrianoMCaetano/minhas-tarefas )
-- [Projeto SixBlades Jiu-Jitsu]( https://github.com/SergioAdrianoMCaetano/LandingPage_SixBladesSudoeste )
 
 
 ### Contato
 
+- [Instagram](https://www.instagram.com/sergioadrianodevops/) 
 - [LinkedIn](www.linkedin.com/in/sergio-adriano) 
 - [Email](sergioadrianomc@gmail.com) 
-- [Instagram](https://www.instagram.com/sergioadrianodevops/) 
